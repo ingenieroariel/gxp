@@ -2,7 +2,7 @@
  * @requires GeoExt/Lang.js
  */
 
-GeoExt.Lang.add("en", {
+GeoExt.Lang.add("pt", {
 
     "gxp.menu.LayerMenu.prototype": {
         layerText: "Camada"
@@ -223,8 +223,8 @@ GeoExt.Lang.add("en", {
     },
     
     "gxp.FilterBuilder.prototype": {
-        builderTypeNames: ["qualquer", "todos", "nenhum", "nem todos"],,
-        preComboText: "Combinar"
+        builderTypeNames: ["qualquer", "todos", "nenhum", "nem todos"],
+        preComboText: "Combinar",
         postComboText: "dos seguintes:",
         addConditionText: "adicionar condição",
         addGroupText: "adicionar grupo",
@@ -250,7 +250,7 @@ GeoExt.Lang.add("en", {
         graphicExternalText: "externo",
         urlText: "URL",
         opacityText: "Opacidade",
-        symbolText: "Símbolo,
+        symbolText: "Símbolo",
         sizeText: "Tamanho",
         rotationText: "Rotação"
     },
